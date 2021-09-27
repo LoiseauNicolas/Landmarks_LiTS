@@ -1,0 +1,46 @@
+l5-1
+th12-12  
+ael5-1 
+aeth12-1 
+ptg			- Petit trochanter
+ptd
+tig			- Tubérosité ischiatique 
+tid
+ps			- pointe sacrée
+spig		- Symphyse pubienne crete iliaque
+spid
+gtg			- grand trochanter
+gtd
+pacig		- Pointe antérieur crete iliaque
+pacid
+bvci		- bifurcation VCI (l5)
+ba 			- bifurcation aortique (l4)
+
+47 points ici
+
+cig			- crete iliaque (sommet)
+cid
+pif			- pointe inf foie
+eirg		- extremité inf rein
+eird
+esrg		- extrémité sup rein
+esrd
+sdpg		- sommet pulmonaire du diaphragme
+sdpd
+ac			- apex cardiaque
+evisg		- extrémité inf du voile de la scapula
+evisd
+
+59 points ici
+
+px			- processus xiphoide
+bt 			- bifurcation trachéale
+aa			- arc aortique
+scg			- jointure scapulo-claviculaire
+scd
+spg 		- sommet pulmonaire
+spd
+issg		- incisure supra scapulaire
+issd
+
+68 points au total
