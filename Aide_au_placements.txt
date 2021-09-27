@@ -1,39 +1,42 @@
-l5-1
-th12-12  
-ael5-1 
-aeth12-1 
-ptg			- Petit trochanter
-ptd
-tig			- Tubérosité ischiatique 
-tid
-ps			- pointe sacrée
-spig		- Symphyse pubienne crete iliaque
-spid
-gtg			- grand trochanter
-gtd
-pacig		- Pointe antérieur crete iliaque
-pacid
-bvci		- bifurcation VCI (l5)
-ba 			- bifurcation aortique (l4)
+Pour le placement dans cet ordre, on place dans l'ordre [l-r] left puis right
 
-47 points ici
+lv[5-1]		- vertebres lombaire (en remontant de 5 à 1)
+tv[12-1]	- vertebres thoracique (en remontant de 12 à 1)
+ltl			- Petit trochanter gauche et droit
+ltr
+itl			- Tubérosité ischiatique 
+itr
+ts			- pointe sacrée
+psl			- Symphyse pubienne crete iliaque
+psr
+leb 		- extrémité inf de la vessie
+ueb 		- extrémité sup de la vessie
+gtl			- grand trochanter
+gtr
+taicl		- Pointe antérieur crete iliaque
+taicr
+bicv		- bifurcation VCI (l5)
+baa			- bifurcation aortique (l4)
 
-cig			- crete iliaque (sommet)
-cid
-pif			- pointe inf foie
-eirg		- extremité inf rein
-eird
-esrg		- extrémité sup rein
-esrd
-sdpg		- sommet pulmonaire du diaphragme
-sdpd
-ac			- apex cardiaque
-evisg		- extrémité inf du voile de la scapula
-evisd
+32 points placés ici (normalement)
 
-59 points ici
+icl			- crete iliaque (sommet)
+icr
+ltl			- pointe inf foie
+lts 		- pointe inf rate
+lekl		- extremité inf rein
+lekr
+uekl		- extrémité sup rein
+uekr
+padl		- sommet pulmonaire du diaphragme
+padr
+ca			- apex cardiaque
+ievsl		- extrémité inf du voile de la scapula
+ievsr
 
-px			- processus xiphoide
+45 points placés ici (normalement)
+
+px			- Articulation xyphosternale
 bt 			- bifurcation trachéale
 aa			- arc aortique
 scg			- jointure scapulo-claviculaire

@@ -20,3 +20,16 @@ rm libcrypto.so.1.1
 Dans slicer 3D, ajouter l'extension Slicer IGT, avec le bouton extension manager, dont voici l'icone:
 
 ![alt text](https://github.com/LoiseauNicolas/Landmarks_LiTS/blob/main/Images/SlicerIGTLogo.png?raw=true)
+
+
+## LiTS database
+https://competitions.codalab.org/competitions/17094
+
+Volumes abdomen:
+[28-45, 72, 129]
+Volumes abdomen-pelvis:
+[0,2-3,5-8,10-12,19-21,23-26,53-67,69-82,84-86,96-103,128,130]
+Volumes thorax-abdomen-pelvis:
+[1,4,13-18,22,27,48-52,68,83,87-95,104-127]
+Volumes avec problèmes de spacing:
+[9,46-47]
