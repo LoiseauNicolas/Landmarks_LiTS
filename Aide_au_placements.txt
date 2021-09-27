@@ -39,11 +39,11 @@ ievsr
 px			- Articulation xyphosternale
 bt 			- bifurcation trachéale
 aa			- arc aortique
-scg			- jointure scapulo-claviculaire
-scd
-spg 		- sommet pulmonaire
-spd
-issg		- incisure supra scapulaire
-issd
+scjl		- jointure scapulo-claviculaire
+scjr
+tll 		- sommet pulmonaire
+tlr
+ssil		- incisure supra scapulaire
+sslr
 
-68 points au total
+54 points au total (normalement)
