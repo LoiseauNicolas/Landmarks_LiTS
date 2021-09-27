@@ -19,4 +19,4 @@ rm libcrypto.so.1.1
 ### Extension
 Dans slicer 3D, ajouter l'extension Slicer IGT, avec le bouton extension manager, dont voici l'icone:
 
-![alt text](https://github.com/LoiseauNicolas/Landmarks_LiTS/blob/Images/SlicerIGTLogo.png?raw=true)
+![alt text](https://github.com/LoiseauNicolas/Landmarks_LiTS/tree/main/Images/SlicerIGTLogo.png?raw=true)
