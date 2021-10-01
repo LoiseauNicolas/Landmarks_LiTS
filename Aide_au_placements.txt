@@ -22,7 +22,7 @@ baa			- bifurcation aortique (l4)
 
 icl			- crete iliaque (sommet)
 icr
-ltl			- pointe inf foie
+ltol		- pointe inf foie
 lts 		- pointe inf rate
 lekl		- extremité inf rein
 lekr
